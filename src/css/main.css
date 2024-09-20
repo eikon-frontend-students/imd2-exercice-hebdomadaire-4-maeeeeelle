@@ -12,3 +12,142 @@ img,
 video {
   display: block;
 }
+
+body{
+  display: flex;
+width: 1728px;
+height: 1117px;
+padding: 50px 1306px 901px 0px;
+flex-direction: column;
+align-items: flex-start;
+}
+
+.Tout{
+}
+
+
+h1 {
+  color: #000;
+  text-align: right;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 100px;
+}
+
+p {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.pourcent {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding-bottom: 10px;
+  align-self: stretch;
+}
+
+.pourcentage {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  align-self: stretch;
+}
+
+.jaune-1 {
+  background: #ffcc2f;
+  display: flex;
+  width: 195px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.bleu-1 {
+  border-radius: 0px 10px 10px 0px;
+  background: #37d3d2;
+  display: flex;
+  width: 105px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.jaune-2 {
+  background: #ffcc2f;
+  display: flex;
+  width: 153px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.bleu-2 {
+  background: #37d3d2;
+  border-radius: 0px 10px 10px 0px;
+  display: flex;
+  width: 147px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.jaune-3 {
+  background: #ffcc2f;
+  display: flex;
+  width: 123px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.bleu-3 {
+  border-radius: 0px 10px 10px 0px;
+  background: #37d3d2;
+  display: flex;
+  width: 177px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.boite {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.jaune {
+  background: #ffcc2f;
+  width: 16px;
+  height: 16px;
+}
+
+.bleu {
+  background: #37d3d2;
+  width: 16px;
+  height: 16px;
+}
+
+.text {
+  display: flex;
+  width: 422px;
+  padding: 20px 0px 20px 120px;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
